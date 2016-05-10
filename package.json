@@ -1,0 +1,23 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "node tools to use in project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swizardlv/tools.git"
+  },
+  "keywords": [
+    "node",
+    "tools"
+  ],
+  "author": "swizard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swizardlv/tools/issues"
+  },
+  "homepage": "https://github.com/swizardlv/tools#readme"
+}
